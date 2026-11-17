@@ -2,7 +2,11 @@
 
 **LogicEye** is a framework for building and evaluating interpretable multimodal ophthalmic models. It combines an agent-based data annotation pipeline, a large-scale fundus/OCT image–report dataset, and a hierarchical vision-language benchmark. The goal is to move beyond coarse disease labels toward visually grounded diagnostic descriptions that include both supporting findings and clinically relevant absent signs.
 
+![Overview of the LogicEye framework](./logiceye.pdf)
+
 > **Project status:** This README is based on the accompanying paper. Public repository URLs, released checkpoints, dataset download instructions, and software installation details were not specified in the paper and should be added when available.
+
+![Dataset statistics for LogicEye](./distribution.png)
 
 ## Highlights
 
